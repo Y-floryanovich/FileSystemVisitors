@@ -1,0 +1,8 @@
+C:\.NET Basic\FileSystemVisitors\FileSystemVisitor\bin\Debug\FileSystemVisitor.exe.config
+C:\.NET Basic\FileSystemVisitors\FileSystemVisitor\bin\Debug\FileSystemVisitor.exe
+C:\.NET Basic\FileSystemVisitors\FileSystemVisitor\bin\Debug\FileSystemVisitor.pdb
+C:\.NET Basic\FileSystemVisitors\FileSystemVisitor\obj\Debug\FileSystemVisitor.csproj.AssemblyReference.cache
+C:\.NET Basic\FileSystemVisitors\FileSystemVisitor\obj\Debug\FileSystemVisitor.csproj.SuggestedBindingRedirects.cache
+C:\.NET Basic\FileSystemVisitors\FileSystemVisitor\obj\Debug\FileSystemVisitor.csproj.CoreCompileInputs.cache
+C:\.NET Basic\FileSystemVisitors\FileSystemVisitor\obj\Debug\FileSystemVisitor.exe
+C:\.NET Basic\FileSystemVisitors\FileSystemVisitor\obj\Debug\FileSystemVisitor.pdb

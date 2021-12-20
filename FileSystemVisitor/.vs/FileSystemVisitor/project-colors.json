@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d45da1aa-28fb-4269-9613-5d70ddde772c": {
+      "ProjectGuid": "d45da1aa-28fb-4269-9613-5d70ddde772c",
+      "DisplayName": "FileSystemVisitor",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b84f6d19-e294-4e44-9e7d-c13d207cea59": {
+      "ProjectGuid": "b84f6d19-e294-4e44-9e7d-c13d207cea59",
+      "DisplayName": "FileSystemVisitor.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
